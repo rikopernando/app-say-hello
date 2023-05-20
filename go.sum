@@ -1,2 +1,6 @@
 github.com/rikopernando/go-say-hello v1.0.0 h1:y3AwZHI87Se95XDpKW+AoB+taO7k2dlGJTmu4/5pgSE=
 github.com/rikopernando/go-say-hello v1.0.0/go.mod h1:JyfH6e9K/bdqwZxVh64UNVfRGK2LBxtynoIJ1vaLb8s=
+github.com/rikopernando/go-say-hello v1.2.0 h1:XioWpPROLaFN7V6LI5ehz0lY2n2ZxUpuXmSJp1YMpbM=
+github.com/rikopernando/go-say-hello v1.2.0/go.mod h1:JyfH6e9K/bdqwZxVh64UNVfRGK2LBxtynoIJ1vaLb8s=
+github.com/rikopernando/go-say-hello/v2 v2.0.0 h1:9poHoRPX6awUBnMMMuekiZmFEM1/kBy2Z7Z8aYC2fjQ=
+github.com/rikopernando/go-say-hello/v2 v2.0.0/go.mod h1:W9RMCnYufak3z60/sRcP3Bt0SrZDAlhK/Z2wVSy9C/Y=
